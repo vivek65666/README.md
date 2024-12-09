@@ -1,3 +1,3 @@
-### Hey I am Vivek # About me.
+### Hey I am Vivek
 <!--
 --!>
